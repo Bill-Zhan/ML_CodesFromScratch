@@ -1,3 +1,3 @@
-# NLP_EECS595
+# ML Codes From Scratch
 
-This repo is for the projects in the course EECS 595
+This repo is for the codes from scratch of popular ML/NLP algorithms
